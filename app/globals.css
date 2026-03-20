@@ -1,26 +1,103 @@
 @import "tailwindcss";
 
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --saffron: #ff6b1a;
+  --saffron-light: #ff8c42;
+  --saffron-pale: #fff3ec;
+  --green: #1a7a3a;
+  --green-light: #2ea653;
+  --green-pale: #eef7f1;
+  --navy: #0f2044;
+  --navy-mid: #1c3461;
+  --white: #ffffff;
+  --off-white: #faf8f5;
+  --grey-100: #f4f2ef;
+  --grey-200: #e8e4df;
+  --grey-400: #a09890;
+  --grey-600: #5c5248;
+  --error: #d63b2f;
+  --error-pale: #fdf2f1;
+  --success: #1a7a3a;
+
+  --font-display: "Playfair Display", serif;
+  --font-body: "DM Sans", sans-serif;
+  --font-gujarati: "Tiro Devanagari Hindi", serif;
+
+  --radius-sm: 6px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+
+  --shadow-sm: 0 1px 4px rgba(15, 32, 68, 0.08);
+  --shadow-md: 0 4px 16px rgba(15, 32, 68, 0.12);
+  --shadow-lg: 0 12px 40px rgba(15, 32, 68, 0.16);
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: var(--font-body);
+  background: var(--off-white);
+  color: var(--navy);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--saffron);
+  color: white;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: var(--grey-100);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--grey-200);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--grey-400);
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% center;
+  }
+  100% {
+    background-position: 200% center;
+  }
 }

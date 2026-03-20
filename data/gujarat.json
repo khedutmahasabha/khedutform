@@ -1,0 +1,2026 @@
+{
+    "state": "Gujarat",
+    "districts": [
+        {
+            "name": "Ahmedabad",
+            "talukas": [
+                {
+                    "name": "Ahmedabad City",
+                    "villages": [
+                        "Maninagar",
+                        "Naroda",
+                        "Vatva",
+                        "Nikol",
+                        "Odhav",
+                        "Bapunagar",
+                        "Gomtipur",
+                        "Rakhial"
+                    ]
+                },
+                {
+                    "name": "Daskroi",
+                    "villages": [
+                        "Narol",
+                        "Vatva",
+                        "Isanpur",
+                        "Hathijan",
+                        "Vinzol",
+                        "Bopal",
+                        "Ghuma",
+                        "Sarkhej"
+                    ]
+                },
+                {
+                    "name": "Detroj-Rampura",
+                    "villages": [
+                        "Detroj",
+                        "Rampura",
+                        "Kadi",
+                        "Balol",
+                        "Gabat",
+                        "Motipura",
+                        "Mevad"
+                    ]
+                },
+                {
+                    "name": "Dholka",
+                    "villages": [
+                        "Dholka",
+                        "Bhatiya",
+                        "Ranpur",
+                        "Bavla",
+                        "Bagodara",
+                        "Kheda",
+                        "Piplag"
+                    ]
+                },
+                {
+                    "name": "Sanand",
+                    "villages": [
+                        "Sanand",
+                        "Chekhla",
+                        "Bol",
+                        "Changodar",
+                        "Nalsarovar",
+                        "Tragad",
+                        "Bavla"
+                    ]
+                },
+                {
+                    "name": "Viramgam",
+                    "villages": [
+                        "Viramgam",
+                        "Nani Khajuri",
+                        "Moti Khajuri",
+                        "Ranoda",
+                        "Dhrangadhra",
+                        "Jaspur"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Amreli",
+            "talukas": [
+                {
+                    "name": "Amreli",
+                    "villages": [
+                        "Amreli",
+                        "Rajula",
+                        "Savarkundla",
+                        "Lathi",
+                        "Damnagar",
+                        "Babra"
+                    ]
+                },
+                {
+                    "name": "Bagasara",
+                    "villages": [
+                        "Bagasara",
+                        "Haliyad",
+                        "Rampar",
+                        "Vadla",
+                        "Motasamdhiyala"
+                    ]
+                },
+                {
+                    "name": "Dhari",
+                    "villages": [
+                        "Dhari",
+                        "Ramapara",
+                        "Nari",
+                        "Vadiya",
+                        "Gopnath"
+                    ]
+                },
+                {
+                    "name": "Jafrabad",
+                    "villages": [
+                        "Jafrabad",
+                        "Rajpara",
+                        "Pipaliya",
+                        "Ghogha",
+                        "Talaja"
+                    ]
+                },
+                {
+                    "name": "Khambha",
+                    "villages": [
+                        "Khambha",
+                        "Modhavada",
+                        "Rajpara",
+                        "Kariana",
+                        "Pipavav"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Anand",
+            "talukas": [
+                {
+                    "name": "Anand",
+                    "villages": [
+                        "Anand",
+                        "Vallabh Vidyanagar",
+                        "Karamsad",
+                        "Boriavi",
+                        "Adas",
+                        "Sojitra"
+                    ]
+                },
+                {
+                    "name": "Borsad",
+                    "villages": [
+                        "Borsad",
+                        "Nadiad",
+                        "Sojitra",
+                        "Vaso",
+                        "Tarapur",
+                        "Dabhou"
+                    ]
+                },
+                {
+                    "name": "Khambhat",
+                    "villages": [
+                        "Khambhat",
+                        "Vatadara",
+                        "Thasra",
+                        "Umreth",
+                        "Kapadwanj"
+                    ]
+                },
+                {
+                    "name": "Petlad",
+                    "villages": [
+                        "Petlad",
+                        "Sojitra",
+                        "Cambay",
+                        "Bhalej",
+                        "Astad"
+                    ]
+                },
+                {
+                    "name": "Umreth",
+                    "villages": [
+                        "Umreth",
+                        "Bhalej",
+                        "Chaklasi",
+                        "Kathlal",
+                        "Mahisa"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Aravalli",
+            "talukas": [
+                {
+                    "name": "Bayad",
+                    "villages": [
+                        "Bayad",
+                        "Meghraj",
+                        "Modasa",
+                        "Bhiloda",
+                        "Malpur"
+                    ]
+                },
+                {
+                    "name": "Bhiloda",
+                    "villages": [
+                        "Bhiloda",
+                        "Vijaynagar",
+                        "Khedbrahma",
+                        "Danta",
+                        "Shamlaji"
+                    ]
+                },
+                {
+                    "name": "Meghraj",
+                    "villages": [
+                        "Meghraj",
+                        "Limdi",
+                        "Sathamba",
+                        "Ambaji",
+                        "Amirgadh"
+                    ]
+                },
+                {
+                    "name": "Modasa",
+                    "villages": [
+                        "Modasa",
+                        "Dhansura",
+                        "Malpur",
+                        "Vadagam",
+                        "Himmatnagar"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Banaskantha",
+            "talukas": [
+                {
+                    "name": "Danta",
+                    "villages": [
+                        "Danta",
+                        "Ambaji",
+                        "Khedbrahma",
+                        "Abu Road",
+                        "Amirgadh"
+                    ]
+                },
+                {
+                    "name": "Deesa",
+                    "villages": [
+                        "Deesa",
+                        "Dhanera",
+                        "Chandisar",
+                        "Hadad",
+                        "Kankrej"
+                    ]
+                },
+                {
+                    "name": "Dhanera",
+                    "villages": [
+                        "Dhanera",
+                        "Radhanpur",
+                        "Santalpur",
+                        "Tharad",
+                        "Vav"
+                    ]
+                },
+                {
+                    "name": "Palanpur",
+                    "villages": [
+                        "Palanpur",
+                        "Disa",
+                        "Vadgam",
+                        "Kankrej",
+                        "Amirgadh"
+                    ]
+                },
+                {
+                    "name": "Tharad",
+                    "villages": [
+                        "Tharad",
+                        "Vav",
+                        "Sami",
+                        "Harij",
+                        "Santalpur"
+                    ]
+                },
+                {
+                    "name": "Vadgam",
+                    "villages": [
+                        "Vadgam",
+                        "Dantiwada",
+                        "Chitrasani",
+                        "Gambhoi",
+                        "Ladol"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bharuch",
+            "talukas": [
+                {
+                    "name": "Amod",
+                    "villages": [
+                        "Amod",
+                        "Vagra",
+                        "Ankleshwar",
+                        "Jhagadia",
+                        "Hansot"
+                    ]
+                },
+                {
+                    "name": "Bharuch",
+                    "villages": [
+                        "Bharuch",
+                        "Ankleshwar",
+                        "Dahej",
+                        "Amod",
+                        "Vagra"
+                    ]
+                },
+                {
+                    "name": "Jambusar",
+                    "villages": [
+                        "Jambusar",
+                        "Tankaria",
+                        "Valia",
+                        "Kevadia",
+                        "Sinor"
+                    ]
+                },
+                {
+                    "name": "Jhagadia",
+                    "villages": [
+                        "Jhagadia",
+                        "Rajpipla",
+                        "Netrang",
+                        "Sagbara",
+                        "Valia"
+                    ]
+                },
+                {
+                    "name": "Valia",
+                    "villages": [
+                        "Valia",
+                        "Hansot",
+                        "Vagra",
+                        "Miyagam",
+                        "Amod"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Bhavnagar",
+            "talukas": [
+                {
+                    "name": "Bhavnagar",
+                    "villages": [
+                        "Bhavnagar",
+                        "Sihor",
+                        "Ghogha",
+                        "Palitana",
+                        "Mahuva"
+                    ]
+                },
+                {
+                    "name": "Gariadhar",
+                    "villages": [
+                        "Gariadhar",
+                        "Palitana",
+                        "Talaja",
+                        "Dhari",
+                        "Mahuva"
+                    ]
+                },
+                {
+                    "name": "Mahuva",
+                    "villages": [
+                        "Mahuva",
+                        "Talaja",
+                        "Ghogha",
+                        "Una",
+                        "Kodinar"
+                    ]
+                },
+                {
+                    "name": "Palitana",
+                    "villages": [
+                        "Palitana",
+                        "Shetrunji",
+                        "Ghogha",
+                        "Talaja",
+                        "Sihor"
+                    ]
+                },
+                {
+                    "name": "Sihor",
+                    "villages": [
+                        "Sihor",
+                        "Vallabhipur",
+                        "Botad",
+                        "Gariadhar",
+                        "Palitana"
+                    ]
+                },
+                {
+                    "name": "Talaja",
+                    "villages": [
+                        "Talaja",
+                        "Mahuva",
+                        "Alang",
+                        "Ghogha",
+                        "Palitana"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Botad",
+            "talukas": [
+                {
+                    "name": "Barwala",
+                    "villages": [
+                        "Barwala",
+                        "Ranpur",
+                        "Barvala",
+                        "Gadhada",
+                        "Dhola"
+                    ]
+                },
+                {
+                    "name": "Botad",
+                    "villages": [
+                        "Botad",
+                        "Barwala",
+                        "Gadhada",
+                        "Ranpur",
+                        "Dhola"
+                    ]
+                },
+                {
+                    "name": "Gadhada",
+                    "villages": [
+                        "Gadhada",
+                        "Botad",
+                        "Barwala",
+                        "Ranpur",
+                        "Barvala"
+                    ]
+                },
+                {
+                    "name": "Ranpur",
+                    "villages": [
+                        "Ranpur",
+                        "Botad",
+                        "Barwala",
+                        "Gadhada",
+                        "Dholera"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Chhota Udaipur",
+            "talukas": [
+                {
+                    "name": "Chhota Udaipur",
+                    "villages": [
+                        "Chhota Udaipur",
+                        "Kavant",
+                        "Sankheda",
+                        "Naswadi",
+                        "Jetpur Pavi"
+                    ]
+                },
+                {
+                    "name": "Jetpur Pavi",
+                    "villages": [
+                        "Jetpur Pavi",
+                        "Naswadi",
+                        "Kawant",
+                        "Pavi Jetpur",
+                        "Bodeli"
+                    ]
+                },
+                {
+                    "name": "Kavant",
+                    "villages": [
+                        "Kavant",
+                        "Rangpur",
+                        "Bodeli",
+                        "Sankheda",
+                        "Chhota Udaipur"
+                    ]
+                },
+                {
+                    "name": "Naswadi",
+                    "villages": [
+                        "Naswadi",
+                        "Chhota Udaipur",
+                        "Kavant",
+                        "Bodeli",
+                        "Sankheda"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dahod",
+            "talukas": [
+                {
+                    "name": "Dahod",
+                    "villages": [
+                        "Dahod",
+                        "Limkheda",
+                        "Zalod",
+                        "Garbada",
+                        "Fatepura"
+                    ]
+                },
+                {
+                    "name": "Devgadh Baria",
+                    "villages": [
+                        "Devgadh Baria",
+                        "Zalod",
+                        "Limkheda",
+                        "Santrampur",
+                        "Shehra"
+                    ]
+                },
+                {
+                    "name": "Fatepura",
+                    "villages": [
+                        "Fatepura",
+                        "Dhanpur",
+                        "Sanjeli",
+                        "Limkheda",
+                        "Garbada"
+                    ]
+                },
+                {
+                    "name": "Limkheda",
+                    "villages": [
+                        "Limkheda",
+                        "Dahod",
+                        "Fatepura",
+                        "Zalod",
+                        "Garbada"
+                    ]
+                },
+                {
+                    "name": "Zalod",
+                    "villages": [
+                        "Zalod",
+                        "Dahod",
+                        "Limkheda",
+                        "Devgadh Baria",
+                        "Santrampur"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Dang",
+            "talukas": [
+                {
+                    "name": "Ahwa",
+                    "villages": [
+                        "Ahwa",
+                        "Waghai",
+                        "Subir",
+                        "Dang",
+                        "Saputara"
+                    ]
+                },
+                {
+                    "name": "Subir",
+                    "villages": [
+                        "Subir",
+                        "Ahwa",
+                        "Waghai",
+                        "Ambagam",
+                        "Bilimora"
+                    ]
+                },
+                {
+                    "name": "Waghai",
+                    "villages": [
+                        "Waghai",
+                        "Ahwa",
+                        "Subir",
+                        "Chikhli",
+                        "Gandevi"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Devbhoomi Dwarka",
+            "talukas": [
+                {
+                    "name": "Dwarka",
+                    "villages": [
+                        "Dwarka",
+                        "Okha",
+                        "Beyt Dwarka",
+                        "Mithapur",
+                        "Khambhalia"
+                    ]
+                },
+                {
+                    "name": "Kalyanpur",
+                    "villages": [
+                        "Kalyanpur",
+                        "Bhanvad",
+                        "Jamkhambhalia",
+                        "Salaya",
+                        "Okhamandal"
+                    ]
+                },
+                {
+                    "name": "Khambhalia",
+                    "villages": [
+                        "Khambhalia",
+                        "Dwarka",
+                        "Salaya",
+                        "Bhanvad",
+                        "Okha"
+                    ]
+                },
+                {
+                    "name": "Okhamandal",
+                    "villages": [
+                        "Okhamandal",
+                        "Okha",
+                        "Dwarka",
+                        "Mithapur",
+                        "Beyt"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gandhinagar",
+            "talukas": [
+                {
+                    "name": "Dahegam",
+                    "villages": [
+                        "Dahegam",
+                        "Nol",
+                        "Raipur",
+                        "Bareja",
+                        "Ode"
+                    ]
+                },
+                {
+                    "name": "Gandhinagar",
+                    "villages": [
+                        "Gandhinagar",
+                        "Adalaj",
+                        "Sargasan",
+                        "Pethapur",
+                        "Koba"
+                    ]
+                },
+                {
+                    "name": "Kalol",
+                    "villages": [
+                        "Kalol",
+                        "Kadi",
+                        "Mansa",
+                        "Nandasan",
+                        "Santhal"
+                    ]
+                },
+                {
+                    "name": "Mansa",
+                    "villages": [
+                        "Mansa",
+                        "Kalol",
+                        "Vijapur",
+                        "Ranasan",
+                        "Dehgam"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Gir Somnath",
+            "talukas": [
+                {
+                    "name": "Kodinar",
+                    "villages": [
+                        "Kodinar",
+                        "Una",
+                        "Sutrapada",
+                        "Veraval",
+                        "Talala"
+                    ]
+                },
+                {
+                    "name": "Sutrapada",
+                    "villages": [
+                        "Sutrapada",
+                        "Veraval",
+                        "Somnath",
+                        "Kodinar",
+                        "Una"
+                    ]
+                },
+                {
+                    "name": "Talala",
+                    "villages": [
+                        "Talala",
+                        "Sasan Gir",
+                        "Visavadar",
+                        "Junagadh",
+                        "Vanthali"
+                    ]
+                },
+                {
+                    "name": "Una",
+                    "villages": [
+                        "Una",
+                        "Kodinar",
+                        "Sutrapada",
+                        "Delvada",
+                        "Jafrabad"
+                    ]
+                },
+                {
+                    "name": "Veraval",
+                    "villages": [
+                        "Veraval",
+                        "Somnath",
+                        "Prabhas Patan",
+                        "Sutrapada",
+                        "Kodinar"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Jamnagar",
+            "talukas": [
+                {
+                    "name": "Dhrol",
+                    "villages": [
+                        "Dhrol",
+                        "Jam Jodhpur",
+                        "Kalavad",
+                        "Lalpur",
+                        "Jodiya"
+                    ]
+                },
+                {
+                    "name": "Jam Jodhpur",
+                    "villages": [
+                        "Jam Jodhpur",
+                        "Dhrol",
+                        "Kalavad",
+                        "Lalpur",
+                        "Jamkhambhalia"
+                    ]
+                },
+                {
+                    "name": "Jamnagar",
+                    "villages": [
+                        "Jamnagar",
+                        "Dhrol",
+                        "Kalavad",
+                        "Jamkhambhalia",
+                        "Lalpur"
+                    ]
+                },
+                {
+                    "name": "Kalavad",
+                    "villages": [
+                        "Kalavad",
+                        "Jamnagar",
+                        "Dhrol",
+                        "Jam Jodhpur",
+                        "Lalpur"
+                    ]
+                },
+                {
+                    "name": "Lalpur",
+                    "villages": [
+                        "Lalpur",
+                        "Jamnagar",
+                        "Dhrol",
+                        "Kalavad",
+                        "Jam Jodhpur"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Junagadh",
+            "talukas": [
+                {
+                    "name": "Junagadh",
+                    "villages": [
+                        "Junagadh",
+                        "Keshod",
+                        "Mendarda",
+                        "Vanthali",
+                        "Mangrol"
+                    ]
+                },
+                {
+                    "name": "Keshod",
+                    "villages": [
+                        "Keshod",
+                        "Manavadar",
+                        "Junagadh",
+                        "Vanthali",
+                        "Mangrol"
+                    ]
+                },
+                {
+                    "name": "Mangrol",
+                    "villages": [
+                        "Mangrol",
+                        "Veraval",
+                        "Somnath",
+                        "Keshod",
+                        "Porbandar"
+                    ]
+                },
+                {
+                    "name": "Mendarda",
+                    "villages": [
+                        "Mendarda",
+                        "Junagadh",
+                        "Keshod",
+                        "Vanthali",
+                        "Visavadar"
+                    ]
+                },
+                {
+                    "name": "Visavadar",
+                    "villages": [
+                        "Visavadar",
+                        "Talala",
+                        "Junagadh",
+                        "Vanthali",
+                        "Mendarda"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kheda",
+            "talukas": [
+                {
+                    "name": "Kapadvanj",
+                    "villages": [
+                        "Kapadvanj",
+                        "Kathlal",
+                        "Mahisa",
+                        "Thasra",
+                        "Nadiad"
+                    ]
+                },
+                {
+                    "name": "Kathlal",
+                    "villages": [
+                        "Kathlal",
+                        "Kapadvanj",
+                        "Nadiad",
+                        "Mahisa",
+                        "Matar"
+                    ]
+                },
+                {
+                    "name": "Kheda",
+                    "villages": [
+                        "Kheda",
+                        "Nadiad",
+                        "Anand",
+                        "Borsad",
+                        "Matar"
+                    ]
+                },
+                {
+                    "name": "Matar",
+                    "villages": [
+                        "Matar",
+                        "Kheda",
+                        "Nadiad",
+                        "Kathlal",
+                        "Anand"
+                    ]
+                },
+                {
+                    "name": "Nadiad",
+                    "villages": [
+                        "Nadiad",
+                        "Kheda",
+                        "Anand",
+                        "Borsad",
+                        "Petlad"
+                    ]
+                },
+                {
+                    "name": "Thasra",
+                    "villages": [
+                        "Thasra",
+                        "Kapadvanj",
+                        "Kathlal",
+                        "Mahisa",
+                        "Kapadwanj"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Kutch",
+            "talukas": [
+                {
+                    "name": "Abdasa",
+                    "villages": [
+                        "Abdasa",
+                        "Nakhtrana",
+                        "Mandvi",
+                        "Mundra",
+                        "Bhuj"
+                    ]
+                },
+                {
+                    "name": "Anjar",
+                    "villages": [
+                        "Anjar",
+                        "Adipur",
+                        "Gandhidham",
+                        "Mundra",
+                        "Bhuj"
+                    ]
+                },
+                {
+                    "name": "Bhachau",
+                    "villages": [
+                        "Bhachau",
+                        "Rapar",
+                        "Khavda",
+                        "Nakhtrana",
+                        "Gandhidham"
+                    ]
+                },
+                {
+                    "name": "Bhuj",
+                    "villages": [
+                        "Bhuj",
+                        "Anjar",
+                        "Gandhidham",
+                        "Adipur",
+                        "Mandvi"
+                    ]
+                },
+                {
+                    "name": "Gandhidham",
+                    "villages": [
+                        "Gandhidham",
+                        "Adipur",
+                        "Anjar",
+                        "Bhuj",
+                        "Mandvi"
+                    ]
+                },
+                {
+                    "name": "Mandvi",
+                    "villages": [
+                        "Mandvi",
+                        "Mundra",
+                        "Bhuj",
+                        "Nakhtrana",
+                        "Abdasa"
+                    ]
+                },
+                {
+                    "name": "Mundra",
+                    "villages": [
+                        "Mundra",
+                        "Mandvi",
+                        "Anjar",
+                        "Bhuj",
+                        "Gandhidham"
+                    ]
+                },
+                {
+                    "name": "Nakhtrana",
+                    "villages": [
+                        "Nakhtrana",
+                        "Abdasa",
+                        "Bhuj",
+                        "Mandvi",
+                        "Mundra"
+                    ]
+                },
+                {
+                    "name": "Rapar",
+                    "villages": [
+                        "Rapar",
+                        "Bhachau",
+                        "Khavda",
+                        "Nakhtrana",
+                        "Bhuj"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mahisagar",
+            "talukas": [
+                {
+                    "name": "Balasinor",
+                    "villages": [
+                        "Balasinor",
+                        "Lunawada",
+                        "Santrampur",
+                        "Khanpur",
+                        "Virpur"
+                    ]
+                },
+                {
+                    "name": "Kadana",
+                    "villages": [
+                        "Kadana",
+                        "Lunawada",
+                        "Balasinor",
+                        "Virpur",
+                        "Khanpur"
+                    ]
+                },
+                {
+                    "name": "Khanpur",
+                    "villages": [
+                        "Khanpur",
+                        "Lunawada",
+                        "Balasinor",
+                        "Virpur",
+                        "Kadana"
+                    ]
+                },
+                {
+                    "name": "Lunawada",
+                    "villages": [
+                        "Lunawada",
+                        "Balasinor",
+                        "Santrampur",
+                        "Khanpur",
+                        "Virpur"
+                    ]
+                },
+                {
+                    "name": "Santrampur",
+                    "villages": [
+                        "Santrampur",
+                        "Lunawada",
+                        "Balasinor",
+                        "Zalod",
+                        "Khanpur"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Mehsana",
+            "talukas": [
+                {
+                    "name": "Becharaji",
+                    "villages": [
+                        "Becharaji",
+                        "Kadi",
+                        "Mehsana",
+                        "Visnagar",
+                        "Unjha"
+                    ]
+                },
+                {
+                    "name": "Kadi",
+                    "villages": [
+                        "Kadi",
+                        "Mehsana",
+                        "Kalol",
+                        "Visnagar",
+                        "Mansa"
+                    ]
+                },
+                {
+                    "name": "Mehsana",
+                    "villages": [
+                        "Mehsana",
+                        "Visnagar",
+                        "Unjha",
+                        "Kheralu",
+                        "Sidhpur"
+                    ]
+                },
+                {
+                    "name": "Sidhpur",
+                    "villages": [
+                        "Sidhpur",
+                        "Mehsana",
+                        "Visnagar",
+                        "Patan",
+                        "Unjha"
+                    ]
+                },
+                {
+                    "name": "Unjha",
+                    "villages": [
+                        "Unjha",
+                        "Visnagar",
+                        "Mehsana",
+                        "Sidhpur",
+                        "Becharaji"
+                    ]
+                },
+                {
+                    "name": "Visnagar",
+                    "villages": [
+                        "Visnagar",
+                        "Mehsana",
+                        "Unjha",
+                        "Sidhpur",
+                        "Kheralu"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Morbi",
+            "talukas": [
+                {
+                    "name": "Halvad",
+                    "villages": [
+                        "Halvad",
+                        "Morbi",
+                        "Wankaner",
+                        "Maliya",
+                        "Tankara"
+                    ]
+                },
+                {
+                    "name": "Maliya",
+                    "villages": [
+                        "Maliya",
+                        "Morbi",
+                        "Halvad",
+                        "Wankaner",
+                        "Tankara"
+                    ]
+                },
+                {
+                    "name": "Morbi",
+                    "villages": [
+                        "Morbi",
+                        "Wankaner",
+                        "Tankara",
+                        "Halvad",
+                        "Maliya"
+                    ]
+                },
+                {
+                    "name": "Tankara",
+                    "villages": [
+                        "Tankara",
+                        "Morbi",
+                        "Wankaner",
+                        "Halvad",
+                        "Maliya"
+                    ]
+                },
+                {
+                    "name": "Wankaner",
+                    "villages": [
+                        "Wankaner",
+                        "Morbi",
+                        "Tankara",
+                        "Halvad",
+                        "Maliya"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Narmada",
+            "talukas": [
+                {
+                    "name": "Dediapada",
+                    "villages": [
+                        "Dediapada",
+                        "Rajpipla",
+                        "Sagbara",
+                        "Nandod",
+                        "Tilakwada"
+                    ]
+                },
+                {
+                    "name": "Garudeshwar",
+                    "villages": [
+                        "Garudeshwar",
+                        "Rajpipla",
+                        "Dediapada",
+                        "Kevadia",
+                        "Nandod"
+                    ]
+                },
+                {
+                    "name": "Nandod",
+                    "villages": [
+                        "Nandod",
+                        "Rajpipla",
+                        "Kevadia",
+                        "Dediapada",
+                        "Sagbara"
+                    ]
+                },
+                {
+                    "name": "Sagbara",
+                    "villages": [
+                        "Sagbara",
+                        "Vyara",
+                        "Dediapada",
+                        "Nandod",
+                        "Rajpipla"
+                    ]
+                },
+                {
+                    "name": "Tilakwada",
+                    "villages": [
+                        "Tilakwada",
+                        "Rajpipla",
+                        "Dediapada",
+                        "Nandod",
+                        "Kevadia"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Navsari",
+            "talukas": [
+                {
+                    "name": "Chikhli",
+                    "villages": [
+                        "Chikhli",
+                        "Gandevi",
+                        "Bilimora",
+                        "Navsari",
+                        "Vansda"
+                    ]
+                },
+                {
+                    "name": "Gandevi",
+                    "villages": [
+                        "Gandevi",
+                        "Chikhli",
+                        "Navsari",
+                        "Bilimora",
+                        "Dhari"
+                    ]
+                },
+                {
+                    "name": "Jalalpore",
+                    "villages": [
+                        "Jalalpore",
+                        "Navsari",
+                        "Bilimora",
+                        "Chikhli",
+                        "Gandevi"
+                    ]
+                },
+                {
+                    "name": "Navsari",
+                    "villages": [
+                        "Navsari",
+                        "Bilimora",
+                        "Jalalpore",
+                        "Chikhli",
+                        "Gandevi"
+                    ]
+                },
+                {
+                    "name": "Vansda",
+                    "villages": [
+                        "Vansda",
+                        "Chikhli",
+                        "Navsari",
+                        "Bilimora",
+                        "Waghai"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Panchmahal",
+            "talukas": [
+                {
+                    "name": "Godhra",
+                    "villages": [
+                        "Godhra",
+                        "Lunawada",
+                        "Halol",
+                        "Shehera",
+                        "Santrampur"
+                    ]
+                },
+                {
+                    "name": "Halol",
+                    "villages": [
+                        "Halol",
+                        "Godhra",
+                        "Kalol",
+                        "Shehera",
+                        "Lunawada"
+                    ]
+                },
+                {
+                    "name": "Jambughoda",
+                    "villages": [
+                        "Jambughoda",
+                        "Halol",
+                        "Godhra",
+                        "Pavi Jetpur",
+                        "Shehera"
+                    ]
+                },
+                {
+                    "name": "Kalol",
+                    "villages": [
+                        "Kalol",
+                        "Halol",
+                        "Godhra",
+                        "Shehera",
+                        "Lunawada"
+                    ]
+                },
+                {
+                    "name": "Morva Hadaf",
+                    "villages": [
+                        "Morva Hadaf",
+                        "Godhra",
+                        "Halol",
+                        "Lunawada",
+                        "Shehera"
+                    ]
+                },
+                {
+                    "name": "Shehera",
+                    "villages": [
+                        "Shehera",
+                        "Godhra",
+                        "Halol",
+                        "Kalol",
+                        "Lunawada"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Patan",
+            "talukas": [
+                {
+                    "name": "Chanasma",
+                    "villages": [
+                        "Chanasma",
+                        "Patan",
+                        "Sidhpur",
+                        "Harij",
+                        "Sami"
+                    ]
+                },
+                {
+                    "name": "Harij",
+                    "villages": [
+                        "Harij",
+                        "Patan",
+                        "Sami",
+                        "Chanasma",
+                        "Sidhpur"
+                    ]
+                },
+                {
+                    "name": "Patan",
+                    "villages": [
+                        "Patan",
+                        "Sidhpur",
+                        "Chanasma",
+                        "Harij",
+                        "Sami"
+                    ]
+                },
+                {
+                    "name": "Radhanpur",
+                    "villages": [
+                        "Radhanpur",
+                        "Santalpur",
+                        "Sami",
+                        "Harij",
+                        "Patan"
+                    ]
+                },
+                {
+                    "name": "Sami",
+                    "villages": [
+                        "Sami",
+                        "Harij",
+                        "Patan",
+                        "Radhanpur",
+                        "Santalpur"
+                    ]
+                },
+                {
+                    "name": "Santalpur",
+                    "villages": [
+                        "Santalpur",
+                        "Radhanpur",
+                        "Tharad",
+                        "Sami",
+                        "Harij"
+                    ]
+                },
+                {
+                    "name": "Sidhpur",
+                    "villages": [
+                        "Sidhpur",
+                        "Patan",
+                        "Chanasma",
+                        "Harij",
+                        "Mehsana"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Porbandar",
+            "talukas": [
+                {
+                    "name": "Kutiyana",
+                    "villages": [
+                        "Kutiyana",
+                        "Porbandar",
+                        "Ranavav",
+                        "Mangrol",
+                        "Barda"
+                    ]
+                },
+                {
+                    "name": "Porbandar",
+                    "villages": [
+                        "Porbandar",
+                        "Ranavav",
+                        "Kutiyana",
+                        "Barda",
+                        "Mangrol"
+                    ]
+                },
+                {
+                    "name": "Ranavav",
+                    "villages": [
+                        "Ranavav",
+                        "Porbandar",
+                        "Kutiyana",
+                        "Mangrol",
+                        "Barda"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Rajkot",
+            "talukas": [
+                {
+                    "name": "Gondal",
+                    "villages": [
+                        "Gondal",
+                        "Jetpur",
+                        "Virpur",
+                        "Rajkot",
+                        "Dhoraji"
+                    ]
+                },
+                {
+                    "name": "Jasdan",
+                    "villages": [
+                        "Jasdan",
+                        "Gondal",
+                        "Jetpur",
+                        "Rajkot",
+                        "Vinchhiya"
+                    ]
+                },
+                {
+                    "name": "Jetpur",
+                    "villages": [
+                        "Jetpur",
+                        "Gondal",
+                        "Rajkot",
+                        "Dhoraji",
+                        "Virpur"
+                    ]
+                },
+                {
+                    "name": "Kotda Sangani",
+                    "villages": [
+                        "Kotda Sangani",
+                        "Rajkot",
+                        "Gondal",
+                        "Jetpur",
+                        "Lodhika"
+                    ]
+                },
+                {
+                    "name": "Lodhika",
+                    "villages": [
+                        "Lodhika",
+                        "Rajkot",
+                        "Gondal",
+                        "Kotda Sangani",
+                        "Jetpur"
+                    ]
+                },
+                {
+                    "name": "Paddhari",
+                    "villages": [
+                        "Paddhari",
+                        "Rajkot",
+                        "Gondal",
+                        "Jasdan",
+                        "Jetpur"
+                    ]
+                },
+                {
+                    "name": "Rajkot",
+                    "villages": [
+                        "Rajkot",
+                        "Gondal",
+                        "Jetpur",
+                        "Lodhika",
+                        "Kotda Sangani"
+                    ]
+                },
+                {
+                    "name": "Vinchhiya",
+                    "villages": [
+                        "Vinchhiya",
+                        "Jasdan",
+                        "Gondal",
+                        "Rajkot",
+                        "Jetpur"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sabarkantha",
+            "talukas": [
+                {
+                    "name": "Bayad",
+                    "villages": [
+                        "Bayad",
+                        "Himmatnagar",
+                        "Idar",
+                        "Khedbrahma",
+                        "Talod"
+                    ]
+                },
+                {
+                    "name": "Himmatnagar",
+                    "villages": [
+                        "Himmatnagar",
+                        "Idar",
+                        "Bayad",
+                        "Talod",
+                        "Vadali"
+                    ]
+                },
+                {
+                    "name": "Idar",
+                    "villages": [
+                        "Idar",
+                        "Himmatnagar",
+                        "Bayad",
+                        "Khedbrahma",
+                        "Vadali"
+                    ]
+                },
+                {
+                    "name": "Khedbrahma",
+                    "villages": [
+                        "Khedbrahma",
+                        "Idar",
+                        "Himmatnagar",
+                        "Vijaynagar",
+                        "Danta"
+                    ]
+                },
+                {
+                    "name": "Prantij",
+                    "villages": [
+                        "Prantij",
+                        "Himmatnagar",
+                        "Talod",
+                        "Bayad",
+                        "Idar"
+                    ]
+                },
+                {
+                    "name": "Talod",
+                    "villages": [
+                        "Talod",
+                        "Prantij",
+                        "Himmatnagar",
+                        "Idar",
+                        "Bayad"
+                    ]
+                },
+                {
+                    "name": "Vadali",
+                    "villages": [
+                        "Vadali",
+                        "Himmatnagar",
+                        "Idar",
+                        "Talod",
+                        "Prantij"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Surat",
+            "talukas": [
+                {
+                    "name": "Bardoli",
+                    "villages": [
+                        "Bardoli",
+                        "Vyara",
+                        "Mandvi",
+                        "Olpad",
+                        "Kamrej"
+                    ]
+                },
+                {
+                    "name": "Kamrej",
+                    "villages": [
+                        "Kamrej",
+                        "Surat",
+                        "Olpad",
+                        "Bardoli",
+                        "Palsana"
+                    ]
+                },
+                {
+                    "name": "Mandvi",
+                    "villages": [
+                        "Mandvi",
+                        "Bardoli",
+                        "Vyara",
+                        "Songadh",
+                        "Surat"
+                    ]
+                },
+                {
+                    "name": "Mangrol",
+                    "villages": [
+                        "Mangrol",
+                        "Bardoli",
+                        "Vyara",
+                        "Mandvi",
+                        "Songadh"
+                    ]
+                },
+                {
+                    "name": "Olpad",
+                    "villages": [
+                        "Olpad",
+                        "Kamrej",
+                        "Surat",
+                        "Palsana",
+                        "Bardoli"
+                    ]
+                },
+                {
+                    "name": "Palsana",
+                    "villages": [
+                        "Palsana",
+                        "Olpad",
+                        "Kamrej",
+                        "Surat",
+                        "Bardoli"
+                    ]
+                },
+                {
+                    "name": "Surat",
+                    "villages": [
+                        "Surat",
+                        "Kamrej",
+                        "Olpad",
+                        "Palsana",
+                        "Bardoli"
+                    ]
+                },
+                {
+                    "name": "Umarpada",
+                    "villages": [
+                        "Umarpada",
+                        "Bardoli",
+                        "Vyara",
+                        "Mandvi",
+                        "Songadh"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Surendranagar",
+            "talukas": [
+                {
+                    "name": "Chotila",
+                    "villages": [
+                        "Chotila",
+                        "Surendranagar",
+                        "Wadhwan",
+                        "Dhrangadhra",
+                        "Halvad"
+                    ]
+                },
+                {
+                    "name": "Dhrangadhra",
+                    "villages": [
+                        "Dhrangadhra",
+                        "Halvad",
+                        "Surendranagar",
+                        "Wadhwan",
+                        "Chotila"
+                    ]
+                },
+                {
+                    "name": "Lakhtar",
+                    "villages": [
+                        "Lakhtar",
+                        "Wadhwan",
+                        "Surendranagar",
+                        "Dhrangadhra",
+                        "Halvad"
+                    ]
+                },
+                {
+                    "name": "Limbdi",
+                    "villages": [
+                        "Limbdi",
+                        "Wadhwan",
+                        "Surendranagar",
+                        "Chotila",
+                        "Dhrangadhra"
+                    ]
+                },
+                {
+                    "name": "Muli",
+                    "villages": [
+                        "Muli",
+                        "Chotila",
+                        "Dhrangadhra",
+                        "Surendranagar",
+                        "Wadhwan"
+                    ]
+                },
+                {
+                    "name": "Patdi",
+                    "villages": [
+                        "Patdi",
+                        "Surendranagar",
+                        "Dhrangadhra",
+                        "Wadhwan",
+                        "Halvad"
+                    ]
+                },
+                {
+                    "name": "Sayla",
+                    "villages": [
+                        "Sayla",
+                        "Chotila",
+                        "Surendranagar",
+                        "Wadhwan",
+                        "Limbdi"
+                    ]
+                },
+                {
+                    "name": "Surendranagar",
+                    "villages": [
+                        "Surendranagar",
+                        "Wadhwan",
+                        "Limbdi",
+                        "Dhrangadhra",
+                        "Chotila"
+                    ]
+                },
+                {
+                    "name": "Thangadh",
+                    "villages": [
+                        "Thangadh",
+                        "Wadhwan",
+                        "Surendranagar",
+                        "Dhrangadhra",
+                        "Halvad"
+                    ]
+                },
+                {
+                    "name": "Wadhwan",
+                    "villages": [
+                        "Wadhwan",
+                        "Surendranagar",
+                        "Limbdi",
+                        "Dhrangadhra",
+                        "Chotila"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Tapi",
+            "talukas": [
+                {
+                    "name": "Dolvan",
+                    "villages": [
+                        "Dolvan",
+                        "Vyara",
+                        "Songadh",
+                        "Valod",
+                        "Nizar"
+                    ]
+                },
+                {
+                    "name": "Nizar",
+                    "villages": [
+                        "Nizar",
+                        "Vyara",
+                        "Songadh",
+                        "Dolvan",
+                        "Valod"
+                    ]
+                },
+                {
+                    "name": "Songadh",
+                    "villages": [
+                        "Songadh",
+                        "Vyara",
+                        "Valod",
+                        "Dolvan",
+                        "Nizar"
+                    ]
+                },
+                {
+                    "name": "Uchchhal",
+                    "villages": [
+                        "Uchchhal",
+                        "Vyara",
+                        "Songadh",
+                        "Mandvi",
+                        "Valod"
+                    ]
+                },
+                {
+                    "name": "Valod",
+                    "villages": [
+                        "Valod",
+                        "Vyara",
+                        "Songadh",
+                        "Dolvan",
+                        "Nizar"
+                    ]
+                },
+                {
+                    "name": "Vyara",
+                    "villages": [
+                        "Vyara",
+                        "Songadh",
+                        "Valod",
+                        "Mandvi",
+                        "Bardoli"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Vadodara",
+            "talukas": [
+                {
+                    "name": "Dabhoi",
+                    "villages": [
+                        "Dabhoi",
+                        "Vadodara",
+                        "Sinor",
+                        "Karjan",
+                        "Padra"
+                    ]
+                },
+                {
+                    "name": "Karjan",
+                    "villages": [
+                        "Karjan",
+                        "Vadodara",
+                        "Dabhoi",
+                        "Sinor",
+                        "Padra"
+                    ]
+                },
+                {
+                    "name": "Padra",
+                    "villages": [
+                        "Padra",
+                        "Vadodara",
+                        "Karjan",
+                        "Dabhoi",
+                        "Savli"
+                    ]
+                },
+                {
+                    "name": "Savli",
+                    "villages": [
+                        "Savli",
+                        "Vadodara",
+                        "Padra",
+                        "Karjan",
+                        "Dabhoi"
+                    ]
+                },
+                {
+                    "name": "Sinor",
+                    "villages": [
+                        "Sinor",
+                        "Vadodara",
+                        "Dabhoi",
+                        "Karjan",
+                        "Padra"
+                    ]
+                },
+                {
+                    "name": "Vadodara",
+                    "villages": [
+                        "Vadodara",
+                        "Dabhoi",
+                        "Karjan",
+                        "Padra",
+                        "Savli"
+                    ]
+                },
+                {
+                    "name": "Waghodia",
+                    "villages": [
+                        "Waghodia",
+                        "Vadodara",
+                        "Padra",
+                        "Savli",
+                        "Karjan"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Valsad",
+            "talukas": [
+                {
+                    "name": "Dharampur",
+                    "villages": [
+                        "Dharampur",
+                        "Valsad",
+                        "Navsari",
+                        "Pardi",
+                        "Kaprada"
+                    ]
+                },
+                {
+                    "name": "Kaprada",
+                    "villages": [
+                        "Kaprada",
+                        "Valsad",
+                        "Dharampur",
+                        "Pardi",
+                        "Umbergaon"
+                    ]
+                },
+                {
+                    "name": "Pardi",
+                    "villages": [
+                        "Pardi",
+                        "Valsad",
+                        "Dharampur",
+                        "Umbergaon",
+                        "Bulsar"
+                    ]
+                },
+                {
+                    "name": "Umbergaon",
+                    "villages": [
+                        "Umbergaon",
+                        "Valsad",
+                        "Pardi",
+                        "Kaprada",
+                        "Dharampur"
+                    ]
+                },
+                {
+                    "name": "Valsad",
+                    "villages": [
+                        "Valsad",
+                        "Bulsar",
+                        "Pardi",
+                        "Dharampur",
+                        "Umbergaon"
+                    ]
+                }
+            ]
+        }
+    ]
+}
