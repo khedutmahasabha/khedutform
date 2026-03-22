@@ -320,6 +320,14 @@ export default function DashboardPage() {
                   <th>District · જિલ્લો</th>
                   <th>Taluka · તાલુકો</th>
                   <th>Village · ગામ</th>
+                  <th>Survey No. · સર્વે નં.</th>
+                  <th>Land (Acre) · જમીન</th>
+                  <th>Town Planning</th>
+                  <th>Pipeline</th>
+                  <th>Affected (m) · અસરગ્રસ્ત</th>
+                  <th>Compensation · વળતર</th>
+                  <th>Farm Damage · નુકસાન</th>
+                  <th>Problem · સમસ્યા</th>
                   <th className={styles.thDate}>Date · તારીખ</th>
                 </tr>
               </thead>
@@ -333,6 +341,20 @@ export default function DashboardPage() {
                     <td>{s.district}</td>
                     <td>{s.taluka}</td>
                     <td>{s.village}</td>
+                    <td>{s.surveyNumber}</td>
+                    <td>{s.totalLand}</td>
+                    <td>{s.townPlanning === "yes" ? "હા/YES" : "નાં/NO"}</td>
+                    <td>{s.pipeline}</td>
+                    <td>{s.affectedArea || "—"}</td>
+                    <td>
+                      {s.compensation === "yes"
+                        ? "YES/હા"
+                        : s.compensation === "no"
+                          ? "NO/નાં"
+                          : "PARTIALLY"}
+                    </td>
+                    <td>{s.farmDamage === "yes" ? "હા" : "નાં"}</td>
+                    <td className={styles.tdProblem}>{s.problem || "—"}</td>
                     <td className={styles.tdDate}>
                       {new Date(s.createdAt).toLocaleDateString("en-IN", {
                         day: "2-digit",

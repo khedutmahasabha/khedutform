@@ -6,22 +6,70 @@ export async function POST(request) {
     await dbConnect();
     const body = await request.json();
 
-    const { name, phone, state, district, taluka, village } = body;
-
-    if (!name || !phone || !state || !district || !taluka || !village) {
-      return Response.json(
-        { success: false, message: "All fields are required" },
-        { status: 400 },
-      );
-    }
-
-    const submission = await Submission.create({
+    const {
       name,
       phone,
       state,
       district,
       taluka,
       village,
+      email,
+      surveyNumber,
+      totalLand,
+      townPlanning,
+      pipeline,
+      affectedArea,
+      compensation,
+      farmDamage,
+      problem,
+    } = body;
+
+    if (
+      !name ||
+      !phone ||
+      !state ||
+      !district ||
+      !taluka ||
+      !village ||
+      !email ||
+      !surveyNumber ||
+      !totalLand ||
+      !townPlanning ||
+      !pipeline ||
+      !compensation ||
+      !farmDamage
+    ) {
+      return Response.json(
+        { success: false, message: "All fields are required" },
+        { status: 400 },
+      );
+    }
+    const existing = await Submission.findOne({ phone });
+    if (existing) {
+      return Response.json(
+        {
+          success: false,
+          message: "This phone number has already been used to submit a form.",
+        },
+        { status: 409 },
+      );
+    }
+    const submission = await Submission.create({
+      name,
+      phone,
+      email,
+      state,
+      district,
+      taluka,
+      village,
+      surveyNumber,
+      totalLand,
+      townPlanning,
+      pipeline,
+      affectedArea,
+      compensation,
+      farmDamage,
+      problem,
     });
 
     return Response.json({ success: true, data: submission }, { status: 201 });
