@@ -44,12 +44,12 @@ export async function POST(request) {
         { status: 400 },
       );
     }
-    const existing = await Submission.findOne({ phone });
+    const existing = await Submission.findOne({ email });
     if (existing) {
       return Response.json(
         {
           success: false,
-          message: "This phone number has already been used to submit a form.",
+          message: "This email has already been used to submit a form.",
         },
         { status: 409 },
       );
